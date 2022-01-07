@@ -1,4 +1,1 @@
-*.css linguist-detectable=false
-*.js linguist-detectable=true
-*.java linguist-detectable=false
-*.scss linguist-detectable=false
+static/* linguist-vendored
