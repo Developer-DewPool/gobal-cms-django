@@ -1,4 +1,7 @@
 *html text eol=lf
 *css text eol=lf
 *js text eol=lf
-static/* linguist-vendored
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
+*.py linguist-detectable=true
